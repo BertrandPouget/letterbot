@@ -1,2 +1,0 @@
-CATBOOST (NO AVGRATING)
-Best params: {'depth': 6, 'iterations': 1000, 'l2_leaf_reg': 3, 'learning_rate': 0.01}
